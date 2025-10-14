@@ -1,5 +1,5 @@
 #  About Me:
-- Computer Science Student @ INSAT, Tunisia<br>- Aspiring AI & ML Enthusiast<br>- Learning and building projects in Machine Learning & Deep Learning, with a focus on NLP and Computer vision.<br>- Strong interests in Databases, Operating Systems, Computer Architecture, and Statistical Methods.
+- Software Engineering Student @ INSAT, Tunisia<br>- Aspiring AI & ML Enthusiast<br>- Learning and building projects in Machine Learning & Deep Learning, with a focus on NLP and Computer vision.<br>- Strong interests in Databases, Operating Systems, Computer Architecture, and Statistical Methods.
 
 
 
