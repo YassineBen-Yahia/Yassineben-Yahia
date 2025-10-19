@@ -12,4 +12,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yassineben-Yahia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/api/?username=YassineBen-Yahia&theme=default)
