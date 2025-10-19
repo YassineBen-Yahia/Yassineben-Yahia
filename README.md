@@ -12,4 +12,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Yassineben-Yahia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+.github-stats-3d {
+  transform: perspective(1000px) rotateX(10deg) rotateY(-5deg);
+  transition: transform 0.3s ease;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+}
+
+.github-stats-3d:hover {
+  transform: perspective(1000px) rotateX(5deg) rotateY(-2deg) scale(1.02);
+}
