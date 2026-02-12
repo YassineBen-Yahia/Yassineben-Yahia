@@ -4,22 +4,11 @@
 ---
 
 #  Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,docker,postgres,linux,git,github,fastapi,flask,selenium,regex,opencv,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,cpp,postgres,docker,linux,git,github,fastapi,flask,huggingface,matplotlib)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" alt="LangChain" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LlamaIndex" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
-  <img src="https://skillicons.dev/icons?i=huggingface" height="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="50"/>
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
 </p>
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
@@ -37,7 +26,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
-
 #  Contact:
 - 📧 Email: yassinebnyahia@gmail.com
 - 💼 LinkedIn: [**https://www.linkedin.com/in/your-linkedin/**](https://www.linkedin.com/in/yassine-benyahia-523887353/)
@@ -45,7 +33,7 @@
 ---
 
 #  GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yassineben-Yahia&theme=shades-of-purple&hid
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yassineben-Yahia&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yassineben-Yahia&icon=0&color=0)](https://visitcount.itsvg.in)
