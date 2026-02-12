@@ -4,10 +4,9 @@
 ---
 
 #  Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,postgres,docker,linux,git,github,fastapi,flask,huggingface,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,docker,postgres,linux,git,github,fastapi,flask,selenium,regex,cpp)](https://skillicons.dev)
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" alt="LangChain" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LlamaIndex" width="50" height="50"/>
 </p>
 
