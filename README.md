@@ -4,7 +4,7 @@
 ---
 
 #  Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas,opencv,cpp,postgres,docker,linux,git,github,fastapi,flask,huggingface,matplotlib)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,cpp,postgres,docker,linux,git,github,fastapi,flask,huggingface,matplotlib)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" alt="LangChain" width="50" height="50"/>
@@ -14,7 +14,6 @@
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge)
 ![SmolAgents](https://img.shields.io/badge/SmolAgents-4B8BBE?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-FF6F00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
