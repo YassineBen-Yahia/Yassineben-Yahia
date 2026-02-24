@@ -26,7 +26,7 @@
 ---
 #  Contact:
 - 📧 Email: yassinebnyahia@gmail.com
-- 💼 LinkedIn: [**My LinkeIn Profile**](https://www.linkedin.com/in/yassine-benyahia-523887353/)
+- 💼 LinkedIn: [**My LinkedIn Profile**](https://www.linkedin.com/in/yassine-benyahia-523887353/)
 
 ---
 
